@@ -1,1 +1,2 @@
 # Huffman-code
+LAUREEN MWANIKI SCT221-0983/2021
